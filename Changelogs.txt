@@ -1,0 +1,7 @@
+====================
+     1-12-2019
+====================
+- Initial OTA build
+
+NOTE:- Please wait for atleast 10 mins after booting upto
+let the device stabilize & experience optimum performance.
