@@ -1,13 +1,2 @@
 {
-  "response": [
-    {
-      "datetime": 1575804520,
-      "filename": "lineage-16.0-20191208-UNOFFICIAL-Z010D.zip",
-      "id": "ec1ddb8050c52b56cbaf2eda2fc63b9f",
-      "romtype": "UNOFFICIAL",
-      "size": 625795594,
-      "url": "http://files.yaalex.tk/ROMs/Z010D/Pie/LineageOS/lineage-16.0-20191208-UNOFFICIAL-Z010D.zip",
-      "version": "16.0"
-    }
-  ]
 }
