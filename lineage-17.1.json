@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1585727436,
+      "datetime": 1585735496,
       "filename": "lineage-17.1-20200401-UNOFFICIAL-Z010D.zip",
-      "id": "b3f6a34507207d03c572e39994c8b779",
+      "id": "5cd15d9d77b0498a2693fcff8b2b0920",
       "romtype": "UNOFFICIAL",
-      "size": 626299802,
-      "url": "https://github.com/YaAlex3/lineage_OTA/releases/download/17.1_4/lineage-17.1-20200401-UNOFFICIAL-Z010D.zip",
+      "size": 626157676,
+      "url": "https://github.com/YaAlex3/lineage_OTA/releases/download/17.1_5/lineage-17.1-20200401-UNOFFICIAL-Z010D.zip",
       "version": "17.1"
     }
   ]
